@@ -1,1 +1,4 @@
 # gator
+# Requirements:
+## Postgres
+## Go
